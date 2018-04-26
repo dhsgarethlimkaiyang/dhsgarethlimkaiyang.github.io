@@ -1,20 +1,20 @@
 h1{
   font-family:"Comic Sans MS", cursive, sans-serif;	
-  colour:#990033;
+  colour:blue;
 }
 
 h2{
 
   font-family:"Courier New", Courier, monospace;
-  colour:#cc33cc;
+  colour:yellow;
 }
 
 p{
   
   font-family:"Courier New", Courier, monospace;
-    colour:#cc33cc;
+    colour:green;
 }
 
 body{
   
-  background-colour: #cccc66;}
+  background-colour:#9ACD32;}
